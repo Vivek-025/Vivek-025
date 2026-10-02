@@ -23,37 +23,6 @@
 
 <br>
 
-<!-- ===================== CURRENTLY LEARNING ===================== -->
-
-## 🌱 Currently Learning
-
-- 📈 Data cleaning and analysis with **Pandas**
-- 🗄️ Writing queries and joins in **SQL**
-- 📑 **Excel** (pivot tables, formulas, charts)
-- 📊 Data visualization with **Matplotlib, Seaborn & Plotly**
-
-<br>
-
-<!-- ===================== CONNECT ===================== -->
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="mailto:sharmavivekconnect@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/vivek-025">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-📧 **sharmavivekconnect@gmail.com**
-
-<br>
-
 <!-- ===================== LANGUAGES AND TOOLS ===================== -->
 
 ## 💻 Languages and Tools
@@ -72,26 +41,19 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-**Also learning:**
-<br>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-
 <br>
 
-<!-- ===================== PROJECTS ===================== -->
+<!-- ===================== CURRENTLY LEARNING ===================== -->
 
-## 🚀 Featured Projects
+## 🌱 Currently Learning
 
-> ✏️ Replace the examples below with your own projects. Even small practice projects count!
-
-| Project | What it does | Tools |
-|---------|--------------|-------|
-| 🔗 [Project Name 1](https://github.com/vivek-025/REPO-NAME) | One line about the data and what you found | Python, Pandas |
-| 🔗 [Project Name 2](https://github.com/vivek-025/REPO-NAME) | One line about the data and what you found | SQL, Excel |
-| 🔗 [Project Name 3](https://github.com/vivek-025/REPO-NAME) | One line about the data and what you found | Python, Matplotlib |
+<p align="left">
+  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/1068058-Icon-PowerBI?resMode=sharp2&amp;op_usm=1.5,0.65,15,0&amp;wid=96&amp;hei=96&amp;qlt=100&amp;fit=constrain" alt="power bi" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://www.microsoft.com/content/dam/microsoft/bade/images/icons/en-us/m365-app-icons-fy26/Excel-Icon-FY26.svg" alt="excel" width="40" height="40"/> </a>
+</p>
 
 <br>
+
 
 <!-- ===================== LANGUAGE STATS ===================== -->
 
@@ -117,8 +79,23 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Vivek-025&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="170" />
-  <img src="https://streak-stats.demolab.com/?user=Vivek-025&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Vivek-025&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false" />
+  <img src="https://streak-stats.demolab.com/?user=Vivek-025&theme=highcontrast&hide_border=false" />
+</p>
+
+<br>
+
+<!-- ===================== CONNECT ===================== -->
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sharmavivekconnect@gmail.com&su=Hello%20Vivek" target="_blank">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+  </a>
+  <a href="https://github.com/vivek-025" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 <br>
