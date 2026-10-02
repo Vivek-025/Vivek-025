@@ -108,13 +108,14 @@
 <br>
 
 <!-- ===================== FOOTER BANNER ===================== -->
-
 <!-- ===================== FOOTER BANNER ===================== -->
+
+<br>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&height=50&lines=Thanks+for+visiting+my+profile+%F0%9F%92%99;Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:0D1117&height=150&section=footer" alt="Footer Banner" width="100%" />
+<img src="./footer-banner.svg"
+     alt="Thanks for visiting my profile"
+     width="100%" />
 
 </div>
