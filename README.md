@@ -1,8 +1,7 @@
 <!-- ===================== HEADER ===================== -->
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+there%2C+I%27m+Vivek+%F0%9F%91%8B;" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:0D1117&height=200&section=header&text=Hi+there%2C+I%27m+Vivek&fontSize=48&fontColor=ffffff&fontAlignY=40" alt="Banner" width="100%" />
 
 <br>
 
@@ -63,11 +62,11 @@
   <tr>
     <td align="center">
       <b>💻 By Repository</b><br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-025&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&size_weight=0.5&count_weight=0.5" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-025&layout=pie&langs_count=6&size_weight=0.5&count_weight=0.5&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=0E75B6&hide_border=false&border_radius=10" />
     </td>
     <td align="center">
       <b>🔥 By Commit Activity</b><br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-025&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&size_weight=0.3&count_weight=0.7" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-025&layout=donut&langs_count=6&size_weight=0.3&count_weight=0.7&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=0E75B6&hide_border=false&border_radius=10" />
     </td>
   </tr>
 </table>
@@ -79,8 +78,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Vivek-025&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false" />
-  <img src="https://streak-stats.demolab.com/?user=Vivek-025&theme=highcontrast&hide_border=false" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Vivek-025&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=2F9BE6&ring_color=2F9BE6&border_color=0E75B6&hide_border=false&border_radius=10&include_all_commits=true&count_private=false" />
+  <img src="https://streak-stats.demolab.com/?user=Vivek-025&background=0D1117&border=0E75B6&stroke=30363D&ring=2F9BE6&fire=FF8A3D&currStreakNum=58A6FF&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&hide_border=false" />
 </p>
 
 <br>
@@ -90,8 +89,8 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sharmavivekconnect@gmail.com&su=Hello%20Vivek" target="_blank">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+  <a href="mailto:sharmavivekconnect@gmail.com?subject=Hello%20Vivek">
+    <img src="https://img.shields.io/badge/sharmavivekconnect@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sharmavivekconnect@gmail.com" />
   </a>
   <a href="https://github.com/vivek-025" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -106,6 +105,6 @@
 
 ### 💙 Thanks for visiting my profile!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 
 </div>
