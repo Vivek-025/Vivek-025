@@ -7,11 +7,15 @@
 ---
 
 ### 🙋‍♂️ About Me
-- 🎓 B.Tech in Computer Science Engineering (2023 Graduate)
+- 🎓 B.Tech in Computer Science Engineering 
 - 📊 Currently transitioning into Data Analytics
 - 🐍 Learning Python, Pandas, SQL & Excel for data-driven decision making
 - 💡 Interested in turning raw data into meaningful insights
 - 📫 Reach me: **sharmavivekconnect@gmail.com**
+
+---
+
+
 
 ---
 
@@ -35,9 +39,6 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-</a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </a>
@@ -49,4 +50,9 @@
 
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Vivek-025&show_icons=true&theme=radical&count_private=true" alt="Vivek's GitHub stats"/>
-  <img height="165em"
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-025&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Vivek-025&theme=radical" alt="GitHub Streak"/>
+</p>
