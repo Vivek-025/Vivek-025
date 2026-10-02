@@ -7,7 +7,7 @@
 
 - 🌱 I'm currently learning **Data Analytics** (Python, Pandas, SQL, Excel)
 - 📫 How to reach me: **sharmavivekconnect@gmail.com**
-- 🎓 B.Tech CSE Graduate (2023)
+- 🎓 B.Tech CSE Graduate 
 
 ---
 
