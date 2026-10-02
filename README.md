@@ -1,58 +1,50 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vivek+%F0%9F%91%8B;Aspiring+Data+Analyst;Learning+Python%2C+SQL+%26+Excel;B.Tech+CSE+Graduate" alt="Typing SVG" />
+<!-- ===================== HEADER ===================== -->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vivek-025&label=Profile%20views&color=0e75b6&style=flat" alt="vivek-025" />
-</p>
+<div align="center">
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Vivek+%F0%9F%91%8B;" alt="Typing SVG" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=vivek-025&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+
+</div>
 
 ### 🙋‍♂️ About Me
 - 🎓 B.Tech in Computer Science Engineering 
 - 📊 Currently transitioning into Data Analytics
 - 🐍 Learning Python, Pandas, SQL & Excel for data-driven decision making
 - 💡 Interested in turning raw data into meaningful insights
-- 📫 Reach me: **sharmavivekconnect@gmail.com**
 
----
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharmavivekconnect@gmail.com) 
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-
----
-
-### 🛠️ Languages and Tools
-<p align="left">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-</a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-</a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-</p>
-
----
-
-### 📊 GitHub Analytics
+💻 Top Languages by Repository
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Vivek-025&show_icons=true&theme=radical&count_private=true" alt="Vivek's GitHub stats"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-025&layout=compact&theme=radical" alt="Top Languages"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-025&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&size_weight=0.5&count_weight=0.5" />
+
 </p>
 
+🔥 Top Languages by Commit Activity
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vivek-025&theme=radical" alt="GitHub Streak"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-025&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&size_weight=0.3&count_weight=0.7" />
+
 </p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Vivek-025&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Vivek-025&theme=dark&hide_border=false)<br/>
+
+💙 Thanks for visiting my profile!
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Growing+%F0%9F%8C%B1;" />
+
+</div>
+
