@@ -66,18 +66,11 @@
 
 ## 📈 Top Languages
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <b>💻 By Repository</b><br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-025&layout=pie&langs_count=6&size_weight=0.5&count_weight=0.5&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=0E75B6&hide_border=false&border_radius=10" />
-    </td>
-    <td align="center">
-      <b>🔥 By Commit Activity</b><br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-025&layout=donut&langs_count=6&size_weight=0.3&count_weight=0.7&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=0E75B6&hide_border=false&border_radius=10" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-025&layout=pie&langs_count=6&size_weight=0.5&count_weight=0.5&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=0E75B6&hide_border=false&border_radius=10" alt="Top Languages"/>
+
+</div>
 
 <br>
 
