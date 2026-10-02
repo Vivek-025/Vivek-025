@@ -68,7 +68,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-025&layout=pie&langs_count=6&size_weight=0.5&count_weight=0.5&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=0E75B6&hide_border=false&border_radius=10" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-025&layout=pie&langs_count=6&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=0E75B6&hide_border=false&border_radius=10" alt="Top Languages"/>
 
 </div>
 
