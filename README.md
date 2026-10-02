@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vivek+%F0%9F%91%8B;Aspiring+Data+Analyst;Learning+Python%2C+SQL+%26+Excel;B.Tech+CSE+Graduate+2023" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vivek+%F0%9F%91%8B;Aspiring+Data+Analyst;Learning+Python%2C+SQL+%26+Excel;B.Tech+CSE+Graduate" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vivek-025&label=Profile%20views&color=0e75b6&style=flat" alt="vivek-025" />
