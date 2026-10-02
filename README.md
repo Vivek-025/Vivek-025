@@ -61,14 +61,13 @@
 
 <br>
 
-
 <!-- ===================== LANGUAGE STATS ===================== -->
 
 ## 📈 Top Languages
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-025&layout=pie&langs_count=6&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=0E75B6&hide_border=false&border_radius=10" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-025&layout=donut-vertical&langs_count=6&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=0E75B6&hide_border=false&border_radius=10" alt="Top Languages"/>
 
 </div>
 
@@ -79,7 +78,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Vivek-025&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=2F9BE6&ring_color=2F9BE6&border_color=0E75B6&hide_border=false&border_radius=10&include_all_commits=true&count_private=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vivek-025&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=2F9BE6&ring_color=2F9BE6&border_color=0E75B6&hide_border=false&border_radius=10&include_all_commits=true&count_private=false" />
   <img src="https://streak-stats.demolab.com/?user=Vivek-025&background=0D1117&border=0E75B6&stroke=30363D&ring=2F9BE6&fire=FF8A3D&currStreakNum=58A6FF&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&hide_border=false" />
 </p>
 
@@ -101,14 +100,9 @@
 <br>
 
 <!-- ===================== FOOTER BANNER ===================== -->
-<!-- ===================== FOOTER BANNER ===================== -->
-
-<br>
 
 <div align="center">
 
-<img src="./footer-banner.svg"
-     alt="Thanks for visiting my profile"
-     width="100%" />
+<img src="./footer-banner.svg" alt="Thanks for visiting my profile" width="100%" />
 
 </div>
