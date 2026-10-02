@@ -109,8 +109,12 @@
 
 <!-- ===================== FOOTER BANNER ===================== -->
 
+<!-- ===================== FOOTER BANNER ===================== -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:0D1117&height=150&section=footer&text=Thanks+for+visiting+my+profile&fontSize=30&fontColor=ffffff&fontAlignY=60&desc=Keep+Learning+%7C+Keep+Building+%7C+Keep+Growing&descSize=16&descAlignY=80&animation=fadeIn" alt="Footer Banner" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&height=50&lines=Thanks+for+visiting+my+profile+%F0%9F%92%99;Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:0D1117&height=150&section=footer" alt="Footer Banner" width="100%" />
 
 </div>
