@@ -1,13 +1,17 @@
-<h1 align="center">Hi 👋, I'm Vivek Sharma</h1>
-<h3 align="center">Aspiring Data Analyst | Learning Python, SQL, Excel and Data Analysis</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vivek+%F0%9F%91%8B;Aspiring+Data+Analyst;Learning+Python%2C+SQL+%26+Excel;B.Tech+CSE+Graduate+2023" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vivek-025&label=Profile%20views&color=0e75b6&style=flat" alt="vivek-025" />
 </p>
 
-- 🌱 I'm currently learning **Data Analytics** (Python, Pandas, SQL, Excel)
-- 📫 How to reach me: **sharmavivekconnect@gmail.com**
-- 🎓 B.Tech CSE Graduate 
+---
+
+### 🙋‍♂️ About Me
+- 🎓 B.Tech in Computer Science Engineering (2023 Graduate)
+- 📊 Currently transitioning into Data Analytics
+- 🐍 Learning Python, Pandas, SQL & Excel for data-driven decision making
+- 💡 Interested in turning raw data into meaningful insights
+- 📫 Reach me: **sharmavivekconnect@gmail.com**
 
 ---
 
@@ -45,13 +49,4 @@
 
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Vivek-025&show_icons=true&theme=radical&count_private=true" alt="Vivek's GitHub stats"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-025&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vivek-025&theme=radical" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vivek-025&theme=react-dark" alt="Activity Graph" width="95%"/>
-</p>
+  <img height="165em"
