@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 150" width="1280" height="150" role="img" aria-label="Thanks for visiting my profile. Keep Learning, Keep Building, Keep Growing.">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0E75B6"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <style>
+      .wave-back  { animation: slideRight 9s linear infinite; }
+      .wave-front { animation: slideLeft 6s linear infinite; }
+
+      @keyframes slideLeft  { from { transform: translateX(0); }      to { transform: translateX(-640px); } }
+      @keyframes slideRight { from { transform: translateX(-640px); } to { transform: translateX(0); } }
+
+      .msg {
+        font-family: 'Poppins', 'Segoe UI', Verdana, Arial, sans-serif;
+        font-size: 30px;
+        font-weight: 600;
+        fill: #ffffff;
+        text-anchor: middle;
+        opacity: 0;
+        animation: cycle 12s infinite;
+      }
+      .m1 { opacity: 1; animation-delay: 0s; }
+      .m2 { animation-delay: 3s; }
+      .m3 { animation-delay: 6s; }
+      .m4 { animation-delay: 9s; }
+
+      @keyframes cycle {
+        0%   { opacity: 0; transform: translateY(10px); }
+        4%   { opacity: 1; transform: translateY(0); }
+        21%  { opacity: 1; transform: translateY(0); }
+        25%  { opacity: 0; transform: translateY(-10px); }
+        100% { opacity: 0; transform: translateY(-10px); }
+      }
+    </style>
+  </defs>
+
+  <!-- back wave (slower, lighter) -->
+  <g class="wave-back" opacity="0.45">
+    <path fill="url(#grad)" d="M0,30 q160,-28 320,0 t320,0 t320,0 t320,0 t320,0 t320,0 t320,0 t320,0 V150 H0 Z"/>
+  </g>
+
+  <!-- front wave -->
+  <g class="wave-front">
+    <path fill="url(#grad)" d="M0,40 q160,-20 320,0 t320,0 t320,0 t320,0 t320,0 t320,0 t320,0 t320,0 V150 H0 Z"/>
+  </g>
+
+  <!-- messages (one visible at a time, 3 seconds each) -->
+  <text class="msg m1" x="640" y="98">Thanks for visiting my profile</text>
+  <text class="msg m2" x="640" y="98">Keep Learning</text>
+  <text class="msg m3" x="640" y="98">Keep Building</text>
+  <text class="msg m4" x="640" y="98">Keep Growing</text>
+</svg>
