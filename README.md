@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+there%2C+I%27m+Vivek+%F0%9F%91%8B;Aspiring+Data+Analyst+%F0%9F%93%8A;Python+%7C+SQL+%7C+Excel+%7C+Pandas" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+there%2C+I%27m+Vivek+%F0%9F%91%8B;" alt="Typing SVG" />
 
 <br>
 
