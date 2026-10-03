@@ -14,7 +14,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 B.Tech in Computer Science Engineering
 - 📊 Currently transitioning into Data Analytics
 - 🐍 Learning Python, Pandas, SQL & Excel for data-driven decision making
 - 💡 Interested in turning raw data into meaningful insights
